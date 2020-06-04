@@ -1,1 +1,1 @@
-# aayushi1499-3D-Graph-Projections
+# 3D-Graph-Projections
